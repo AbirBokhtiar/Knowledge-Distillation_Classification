@@ -17,7 +17,7 @@ The distilled student model, **DYL-Leaf**, achieves **93.8% validation accuracy*
 ---
 
 ## Dataset
-The dataset used in this study is a subset of the **PlantVillage dataset**, containing **4,144 images** across **13 classes** of potato, rice, and tomato leaf diseases. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/touhidalam08/plantvillage-13classes).
+The dataset used in this study is a subset of the **PlantVillage dataset**, containing **4,144 images** across **13 classes** of potato, rice, and tomato leaf diseases. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/bokhtiarbooks/plantvillage-13classes).
 
 ### Dataset Classes
 | Class Name                                      | Instances |
